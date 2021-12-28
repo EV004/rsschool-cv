@@ -15,7 +15,7 @@ Hi. I am  Evgeniy and i want to start my career like Front-end developer.
 Code — JS basic
 Technology — HTML 5, CSS 4
 Tool — Figma, VSCode
-Operation system — Windows
+Operating system — Windows
 
 ---
 ### Education
