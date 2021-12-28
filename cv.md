@@ -5,6 +5,7 @@
 - **Adress**: Crimea
 - **Email**:  ev004.hy20t@slmail.me
 - **GitHub:** [EV004](https://github.com/EV004)
+
 ---
 
 ### About me
@@ -27,6 +28,7 @@ Courses:
 - Code Basics - HTML
 - Code Basics - CSS
 - Code Basics - JavaScript
+
 ---
 ### Languages
 - English — A2
