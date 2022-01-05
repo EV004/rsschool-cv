@@ -1,5 +1,5 @@
 # Evgeniy D
-## Front-end developer
+## Front-end villain
 ---
 ### Contact
 - **Adress**: Crimea
@@ -8,12 +8,11 @@
 
 ---
 
-### About me
-Hi. I am  Evgeniy and i want to start my career like Front-end developer.
+### Summary
+Hi. I am  Evgeniy and i want to start my career like Front-end villain.
 
 ----
 ### Technical skills
-- Code — JS basic
 - Technology — HTML 5, CSS 4
 - Tool — Figma, VSCode
 - Operating system — Windows
@@ -27,17 +26,9 @@ Courses:
 - The Rolling Scopes — JS/FE Pre-School 2022
 - Code Basics - HTML
 - Code Basics - CSS
-- Code Basics - JavaScript
 
 ---
 ### Languages
 - English — A2
 - Russian — C2
 - Ukrainian  — C1
-
-----
-### Code examples
----
-### Certifications
-
-[comment]: # (Сертификат с CodeWars)
